@@ -25,6 +25,6 @@ server.get('/item', (req, res) => {
 
 server.use(router);
 
-server.listen(8000, () => {
-    console.log('server is running on 8000 port');
+server.listen(process.env.PORT, () => {
+    console.log('server is running...');
 });
