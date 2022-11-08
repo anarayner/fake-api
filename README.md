@@ -3,4 +3,4 @@ json-server for fetching data
 
 ## LINK
 
-[LINK](https://fake-api-q16g.onrender.com/data)
+[LINK to json file](https://fake-api-q16g.onrender.com/data)
